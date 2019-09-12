@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SmartHRManager</string>
+    <string name="us_na">Username</string>
+    <string name="P_wd">Password</string>
+    <string name="L_in">Login</string>
+    <string name="e_d">Employee Details</string>
+    <string name="m_d">Manager Details</string>
+    <string name="a_d">Admin Details</string>
+    <string name="proj">Project Details</string>
+    <string name="FNa">First Name</string>
+    <string name="MNa">Middle Name</string>
+    <string name="LNa">Last Name</string>
+    <string name="phno">Phone number</string>
+    <string name="email">email id</string>
+    <string name="city">city</string>
+    <string name="st">street</string>
+    <string name="pin">pincode</string>
+    <string name="pro_cre">Project Creation</string>
+    <string name="pro_ass">Project Assign</string>
+    <string name="pro_ass_b">Assignment Based on skills</string>
+    <string name="Ter">Termination</string>
+    <string name="list_e">Employee Details List</string>
+    <string name="list_em">Employee and Manager Details List</string>
+    <string name="Pro_tit">Project Titles</string>
+    <string name="title_activity_2">Activity2</string>
+</resources>
